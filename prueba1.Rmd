@@ -18,7 +18,7 @@ To learn more, see [Interactive Documents](http://rmarkdown.rstudio.com/authorin
 
 ## Pregunta 1:
 
-1.    Dado un registro de vehículos que circulan por una autopista, disponemos de su marca y modelo, país de matriculación, y tipo de vehículo (por número de ruedas). Con tal de ajustar precios de los peajes, ¿Cuántos vehículos tenemos por tipo? ¿Cuál es el tipo más frecuente? ¿De qué países tenemos más vehículos?
+1.    Dado un registro de vehículos que circulan por una autopista, disponemos de su marca y modelo, país de matriculación, y tipo de vehículo (por número de ruedas). Con tal de ajustar precios de los peajes, ¿Cuántos vehículos tenemos por tipo? ¿Cuál es el tipo más frecuente? ¿De qué países tenemos más vehículos?.
 
 RPTA: Se ha considerado que la pregunta es Descriptiva; dado que, lo que se busca es listar resultados reales (registro de vehículos) para identificar de manera estadística la cantidad de tipos de vehículos que pasan por la autopista.
 
@@ -135,7 +135,7 @@ table(epa_http\$hora)
   00   01   02   03   04   05   06   07   08   09   10   11   12   13   14   15   16   17   18   19   20   21   22   23   684  434  399  248  347  374  303  846 1994 3096 3209 3820 3827 4391 4716 4284 4042 2793 1820 1493 1310 1015 1117 1186
 ```
 
-Es las 14 horas: 4,716
+Es a las 14 horas: 4,716
 
 ## Pregunta 4:
 
